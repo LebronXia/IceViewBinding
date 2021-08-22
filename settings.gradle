@@ -1,0 +1,3 @@
+include ':lib-viewbinding'
+include ':app'
+rootProject.name = "Ice-ViewBinding"
