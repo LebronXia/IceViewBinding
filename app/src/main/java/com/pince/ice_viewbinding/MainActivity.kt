@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
 
     val binding: ActivityMainBinding by viewbind()
 
-
     //val bindingV2 by viewbindV2 { ActivityMainBinding::bind }
     var picUrl: ArrayList<String> = ArrayList()
     val locationString: Array<String> = arrayOf(
